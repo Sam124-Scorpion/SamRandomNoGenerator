@@ -1,0 +1,21 @@
+#button{
+    padding: 20px;
+    border-radius: 100%;
+    background-color: black;
+    color: white;
+}
+#yok{
+    text-align: center;
+    align-items: center;
+    display: block;
+    text-decoration: dotted;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h3du{
+    color: blue;
+}
+#h3dv{
+    color: orange;
+}#h3dw{
+    color: red;
+}
